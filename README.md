@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Kushal Rayamajhi
 
-<!--
-**bwit25dksl-cloud/bwit25dksl-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 Student passionate about learning technology
+* 💻 Interested in HTML, CSS, JavaScript, Python, and C#
+* 🚀 Building projects and improving coding skills
+* 📚 Focused on study, growth, and professional development
+* 🌍 Based in Nepal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Frontend: HTML, CSS, JavaScript
+* Programming: Python, C#
+* Tools: Git, GitHub, VS Code
+
+## Current Goals
+
+* Create strong portfolio projects
+* Improve problem-solving skills
+* Learn modern web development
+* Grow as a developer
+
+## Connect With Me
+
+* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+## Fun Fact
+
+I enjoy turning ideas into simple and useful projects.
+
+---
+
+⭐ Thanks for visiting my profile!
